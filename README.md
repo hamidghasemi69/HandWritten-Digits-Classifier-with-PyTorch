@@ -2,13 +2,13 @@
 
 **Designing and Training Neural Networks to Classify Handwritten Digits Using MNIST dataset**
 
-This project focuses on developing a robust neural network using PyTorch to accurately classify handwritten digits. The main aim was to achieve a remarkable accuracy of at least 90% on the test set. The project involved loading the dataset, preprocessing the data, constructing and training a neural network, evaluating its accuracy, and finally, saving the trained model.
+This project focuses on developing a robust neural network using PyTorch to accurately classify handwritten digits. The main aim was to achieve a remarkable accuracy of at least `90%` on the test set. The project involved loading the dataset, preprocessing the data, constructing and training a neural network, evaluating its accuracy, and finally, saving the trained model.
 
 ---
 
 ## Project Overview
 
-- **Dataset**: Utilizes the MNIST dataset, a collection of 70,000 28x28 grayscale images of handwritten digits (0–9).
+- **Dataset**: Utilizes the MNIST dataset, a collection of `70,000` `28x28` grayscale images of handwritten digits `(0–9)`.
 - **Model**: Implements a feedforward neural network using PyTorch's `torch.nn` module.
 - **Objective**: Achieve high classification accuracy on the MNIST test set.
 
