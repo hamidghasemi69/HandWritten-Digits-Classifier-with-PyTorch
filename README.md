@@ -36,6 +36,7 @@ Ensure you have the following libraries installed:
 ## Running the Notebook
 
 1. Clone the repository:
+   
    `git clone https://github.com/hamidghasemi69/HandWritten-Digits-Classifier-with-PyTorch.git`
    
    `cd HandWritten-Digits-Classifier-with-PyTorch`
