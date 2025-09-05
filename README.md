@@ -8,28 +8,17 @@ This project focuses on developing a robust neural network using PyTorch to accu
 
 ## Project Overview
 
-- **Dataset**: Utilizes the MNIST dataset, a collection of `70,000` `28x28` grayscale images of handwritten digits `(0–9)`.
-- **Model**: Implements a feedforward neural network using PyTorch's `torch.nn` module.
-- **Objective**: Achieve high classification accuracy on the MNIST test set.
+- **`Dataset`**: Utilizes the MNIST dataset, a collection of `70,000` `28x28` grayscale images of handwritten digits `(0–9)`.
+- **`Model`**: Implements a feedforward neural network using PyTorch's `torch.nn` module.
+- **`Objective`**: Achieve high classification accuracy on the MNIST test set.
 
 ---
 
 ## Repository Structure
 
-- **MNIST_Handwritten_Digits-STARTER.ipynb** — Jupyter notebook for building and training the model.
-- **model1.pth** — Saved model weights after training.
-- **README.md** — This file.
-
----
-
-## Getting Started
-
-### Prerequisites
-
-Ensure you have the following libraries installed:
-
-`pip install torch torchvision matplotlib`
-
+- **`MNIST_Handwritten_Digits-STARTER.ipynb`** — Jupyter notebook for building and training the model.
+- **`model1.pth`** — Saved model weights after training.
+- **`README.md`** — This file.
 
 ---
 
@@ -50,7 +39,7 @@ Ensure you have the following libraries installed:
 
 ## Results
 
-The model achieves an accuracy of 90% on the MNIST test set, demonstrating the effectiveness of a simple feedforward neural network for digit classification.
+The model achieves an accuracy of `90%` on the MNIST test set, demonstrating the effectiveness of a simple feedforward neural network for digit classification.
 
 
 ## Acknowledgements
