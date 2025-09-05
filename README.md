@@ -37,13 +37,14 @@ Ensure you have the following libraries installed:
 
 1. Clone the repository:
    `git clone https://github.com/hamidghasemi69/HandWritten-Digits-Classifier-with-PyTorch.git`
+   
    `cd HandWritten-Digits-Classifier-with-PyTorch`
 
-2. Open the Jupyter notebook:
+3. Open the Jupyter notebook:
 
    `jupyter notebook MNIST_Handwritten_Digits-STARTER.ipynb`
 
-3. Follow the instructions in the notebook to preprocess the data, define the model, train it, and evaluate its performance.
+4. Follow the instructions in the notebook to preprocess the data, define the model, train it, and evaluate its performance.
 
 
 ## Results
